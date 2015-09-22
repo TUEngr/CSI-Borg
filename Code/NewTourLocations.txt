@@ -1,0 +1,191 @@
+Location 1 (Initial Point)
+header: 
+  seq: 0
+  stamp: 
+    secs: 1427405374
+    nsecs: 901052674
+  frame_id: /map
+pose: 
+  position: 
+    x: -19.4619941711
+    y: -6.87624979019
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.0205464409955
+    w: 0.9997888996
+---
+
+Location 2 (Projection Point with screen up - good)
+header: 
+  seq: 1
+  stamp: 
+    secs: 1427405612
+    nsecs: 949177010
+  frame_id: /map
+pose: 
+  position: 
+    x: -22.1897144318
+    y: 7.97533607483
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.00622978856483
+    w: 0.999980594679
+
+Location 2 (Projection Point With Screen Down)
+header: 
+  seq: 2
+  stamp: 
+    secs: 1427406254
+    nsecs: 851298110
+  frame_id: /map
+pose: 
+  position: 
+    x: -22.2584896088
+    y: 7.65497398376
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.0183772499098
+    w: 0.999831124083
+---
+
+Location 3 (ASO)
+header: 
+  seq: 4
+  stamp: 
+    secs: 1427407313
+    nsecs: 373935685
+  frame_id: /map
+pose: 
+  position: 
+    x: -27.0384044647
+    y: 14.7922315598
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.701382370402
+    w: 0.712785220448
+---
+
+Location 4 (Bio Lab)
+header: 
+  seq: 5
+  stamp: 
+    secs: 1427407613
+    nsecs: 182133660
+  frame_id: /map
+pose: 
+  position: 
+    x: -28.7144756317
+    y: 31.6983280182
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.702960080278
+    w: 0.711229305875
+---
+
+Location 5 (Chem Lab)
+header: 
+  seq: 6
+  stamp: 
+    secs: 1427407918
+    nsecs: 590218308
+  frame_id: /map
+pose: 
+  position: 
+    x: -29.7071666718
+    y: 40.8263702393
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.739863940368
+    w: 0.672756530807
+---
+
+Location 6 (Pod and Table)
+header: 
+  seq: 7
+  stamp: 
+    secs: 1427408131
+    nsecs: 390986145
+  frame_id: /map
+pose: 
+  position: 
+    x: -25.2801685333
+    y: 41.4940261841
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.0555049826545
+    w: 0.998458410201
+---
+
+Location 7 (Art Work)
+header: 
+  seq: 10
+  stamp: 
+    secs: 1427408720
+    nsecs: 470614877
+  frame_id: /map
+pose: 
+  position: 
+    x: -24.374382019
+    y: 32.1882400513
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.709346304995
+    w: 0.704860141865
+---
+
+Location 8 (Going Back 1 doorway) 
+header: 
+  seq: 11
+  stamp: 
+    secs: 1427408963
+    nsecs: 566714595
+  frame_id: /map
+pose: 
+  position: 
+    x: -25.4695892334
+    y: 28.6292076111
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.889721024495
+    w: -0.456504653394
+---
+
+Location 9 (Going back 2 ASO Doorway?)
+header: 
+  seq: 12
+  stamp: 
+    secs: 1427409013
+    nsecs: 902781185
+  frame_id: /map
+pose: 
+  position: 
+    x: -28.3856296539
+    y: 25.0792312622
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.682262599452
+    w: 0.731107205128
+---
+
+
+Location 9 (Going Back 2 
